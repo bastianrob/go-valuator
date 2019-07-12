@@ -1,4 +1,4 @@
-# go-validator
+# go-valuator
 
 With this package, you can evaluate simple expression
 
@@ -16,7 +16,9 @@ With this package, you can evaluate simple expression
 
 ## Dependencies
 
-> "github.com/bastianrob/arrayutil"
+```bash
+"github.com/bastianrob/arrayutil"
+```
 
 ## Example
 
